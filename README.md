@@ -1,6 +1,5 @@
 # Ecommerce-Analysis-Dashboard
 A data visualization dashboard built using Power BI,SQL and MS Excel.
-Ecommerce Analysis Dashboard
 
 Project Overview
 
@@ -28,10 +27,6 @@ Key Features
 - Interactive Power BI Dashboard
 - Ecommerce Sales Insights
 - Multi-source Data Integration
-
-Dashboard Preview
-
-"Dashboard Preview" (DASHBOARD...png)
 
 Files Included
 
