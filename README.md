@@ -31,11 +31,7 @@ Key Features
 
 Dashboard Preview
 
-Add your dashboard screenshots here.
-
-Dashboard Screenshot
-
-"Dashboard Preview" (screenshot.png)
+"Dashboard Preview" (DASHBOARD...png)
 
 Files Included
 
